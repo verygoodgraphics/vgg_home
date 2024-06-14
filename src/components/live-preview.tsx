@@ -35,7 +35,7 @@ export function PreviewVGG() {
     setTimeout(() => {
       if (isRendered) return
       setShowTips(true)
-    }, 10 * 1000)
+    }, 1 * 1000)
   }, [])
 
   return (
