@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@verygoodgraphics/vgg-react':
-    specifier: ^0.1.25
-    version: 0.1.25
+    specifier: ^0.1.29
+    version: 0.1.29
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -974,16 +974,16 @@ packages:
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
     dev: true
 
-  /@verygoodgraphics/vgg-react@0.1.25:
-    resolution: {integrity: sha512-JU/FfObzIHvieDlU+kwU5L4MC5GRES/IBJmqFbpIAWLnVoYHFcH3de09KMlBSymuciPII92PJjQ6cKVuyjmlkw==}
+  /@verygoodgraphics/vgg-react@0.1.29:
+    resolution: {integrity: sha512-TeVdmzunYyQn1Jz5qYtV5sNSoTZU8lx2RtjoafLRy85fdT5fpI8pSgy2eyxlwWCi4p9TdAqJB3yA96zn1a3Ecg==}
     dependencies:
-      '@verygoodgraphics/vgg-wasm': 0.1.21
+      '@verygoodgraphics/vgg-wasm': 0.1.25
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /@verygoodgraphics/vgg-wasm@0.1.21:
-    resolution: {integrity: sha512-Hs0wemfNh1d+2pQe6YpHAUu/bppHtsUCzmRGLZ9ud6uuYqId0LLeBVbJlNynfSbQcPEEnh8qI5b8T4JPCwmGAQ==}
+  /@verygoodgraphics/vgg-wasm@0.1.25:
+    resolution: {integrity: sha512-9DjH+cHbbq9KRDEgwnuNhsuQ1uhA16cs28+Br86nwZZ5UUNZT/yjLobBtZAcx3hskKU4iR9NQHc01/pyFq7cTA==}
     dev: false
 
   /@vitejs/plugin-react@4.2.1(vite@5.2.0):
